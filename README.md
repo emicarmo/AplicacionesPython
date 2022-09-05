@@ -13,7 +13,7 @@ Una aplicacion de escritorio que nos va tirando las cotizaciones de cada tipo de
 4)Calculadora
 Una calculadora sencilla que suma, resta, multiplica, y divide.
 
-#HamburgeseriasIT
+5)HamburgeseriasIT
 Una hamburguesería, busca automatizar sus pedidos con una aplicación.
 El dueño del comercio te cuenta las opciones que
 tienen. Solo 3 combos y un postre:
