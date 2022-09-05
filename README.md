@@ -1,16 +1,16 @@
 # AplicacionesPython
 
-# Contabilizador Cursos
+1)Contabilizador Cursos
 Una universidad desea crear un programa para contabilizar los cursos que tiene cada alumno.
 
-#Dado Virtual
+2)Dado Virtual
 Una pequeña aplicacion de escritorio, generamos un boton que simule arojar un dado junto a unca caje de texto, y que imprima numeros aleatorios del 1 al 6 
 cada vez que presionamos.
 
-#Cotizaciones del dolar
+3)Cotizaciones del dolar
 Una aplicacion de escritorio que nos va tirando las cotizaciones de cada tipo de dolar.
 
-#Calculadora
+4)Calculadora
 Una calculadora sencilla que suma, resta, multiplica, y divide.
 
 #HamburgeseriasIT
